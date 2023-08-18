@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plantyali/static/css/main.25d9ab60.css",
+    "main.js": "/Plantyali/static/js/main.8aa24bc3.js",
+    "index.html": "/Plantyali/index.html",
+    "main.25d9ab60.css.map": "/Plantyali/static/css/main.25d9ab60.css.map",
+    "main.8aa24bc3.js.map": "/Plantyali/static/js/main.8aa24bc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d9ab60.css",
+    "static/js/main.8aa24bc3.js"
+  ]
+}
